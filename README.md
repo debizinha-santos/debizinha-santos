@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Eu sou a Débora! ✌
 
-<!--
-**debizinha-santos/debizinha-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Sonho em trabalhar com front-end
+- 🌱 Estudando CSS, JavaScript
+- 📫 Me contate no e-mail: debhi.ss8@gmail.com
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div> 
+    <a href="https://instagram.com/debizinha.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	   <a href = "mailto:debhi.ss8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/debora-santos-da-silva-b934b68b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ 
