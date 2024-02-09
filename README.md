@@ -1,10 +1,9 @@
 ### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif">  
 
-- 😄 Pronouns: ela/dela
-- 🔭 Meu estudo é focado em desenvolvimento front-end
-- 🌱 Atualmente estou estudando CSS e JavaScript
-- 📫 Me contate no e-mail: debhi.ss8@gmail.com
-- 📲 (11)989827414
+- 🔭 Meu estudo é focado em desenvolvimento front-end;
+- 🌱 Atualmente estou estudando CSS e JavaScript;
+- 📫 Me contate no e-mail: debhi.ss8@gmail.com;
+- 📲 (11)989827414;
 <br>
 <div>
 <img align="right" alt="css3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
