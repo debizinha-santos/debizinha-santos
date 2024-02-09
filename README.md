@@ -1,4 +1,4 @@
-### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="eudraw.gif">  
+### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif">  
 
 - 🔭 Meu estudo é focado em desenvolvimento front-end
 - 🌱 Atualmente estou estudando CSS e JavaScript
