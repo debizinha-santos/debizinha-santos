@@ -1,7 +1,7 @@
 ### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif">  
 
-- 🔭 Meu estudo é focado em desenvolvimento front-end;
-- 🌱 Atualmente estou estudando CSS e JavaScript;
+- 🔭 Estou focada focado em desenvolvimento front-end;
+- 🌱 Atualmente estudando CSS e JavaScript;
 - 📫 Me contate no e-mail: debhi.ss8@gmail.com;
 - 📲 (11)989827414;
 <br>
