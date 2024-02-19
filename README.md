@@ -3,7 +3,6 @@
 - 🔭 Estou focada em desenvolvimento front-end;
 - 🌱 Estudando HTML, CSS e JavaScript;
 - 📫 Me contate no e-mail: debhi.ss8@gmail.com;
-- 📲 (11)989827414;
 <br>
 <br>
 <br>
