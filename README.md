@@ -1,4 +1,4 @@
-### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif" >  
+### Oi, eu sou Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif" >  
 
 - 🌱 Estudando JavaScript;
 - 📫 Me contate no e-mail: debhi.ss8@gmail.com;
