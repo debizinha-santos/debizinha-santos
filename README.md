@@ -1,7 +1,7 @@
 ### Oii, eu sou a Débora! <img align="right" width="200" height="200" class="animated" src="euanima.gif" >  
 
-- 🔭 Aprendiz em Desenvolvimento;
-- 🌱 Estudando C#;
+- 🔭 Junior com 1 ano de experiência em Desenvolvimento FullStack;
+- 🌱 Estudando JavaScript;
 - 📫 Me contate no e-mail: debhi.ss8@gmail.com;
 <br>
 <br>
