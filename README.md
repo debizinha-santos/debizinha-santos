@@ -5,6 +5,7 @@
 <br>
 <br>
 <br>
+  <br>
 <br>
 <div>
 <img align="right" alt="css3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -13,10 +14,8 @@
 <img align="right" alt="css3" height="30" width="30" src="https://static-00.iconduck.com/assets.00/csharp-icon-1755x2048-5r3ugs1f.png" />
           
 </div>
-<br>
 
 <div style="display: inline-block">
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debizinha-santos&layout=compact&theme=dark">
 </div><br>
 
 <div> 
